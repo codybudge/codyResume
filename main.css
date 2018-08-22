@@ -1,12 +1,31 @@
 a {
   color: rgb(12, 110, 190);
 }
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 3px solid rgb(19, 94, 156);
+  margin: 1em 0;
+  padding: 0;
+}
 .name {
-  color: rgb(75, 75, 75);
+  color: rgb(19, 94, 156);
 }
 .center{
   text-align: center;
 }
-.break {
-  border-radius: black 1;
+.profile {
+  margin-left: 3rem;
+  margin-right: 3rem;
+}
+.number {
+  margin-top: 1rem;
+  margin-bottom: 0rem;
+}
+.email {
+  margin-top: 1rem;
+}
+.git {
+  margin-top: 1rem;
 }
