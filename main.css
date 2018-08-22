@@ -1,6 +1,12 @@
+a {
+  color: rgb(12, 110, 190);
+}
 .name {
   color: rgb(75, 75, 75);
 }
 .center{
   text-align: center;
+}
+.break {
+  border-radius: black 1;
 }
